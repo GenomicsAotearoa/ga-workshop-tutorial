@@ -123,14 +123,18 @@ adds a link to the Genomics Aotearoa website:
 ! Work in progress...
 ```
 
-```diff
-@@ Questions for NeSI folk: @@
- - what lead-time is required for software installs?
- - what is the process for testing material on NeSI systems?
- - if software is already installed, can (almost) all the testing be done by the the workshop developers?
- - how do scripts need to be modified to run on NeSI systems?
 
-```
+ - *what lead-time is required for software installs?*
+      >* minimum of three weeks for any application which requires to be installed as a module (there is some flexibility around for simpler software, conda environments or Singularity containers)
+      >* Two weeks for local installs (compiled in a shared directory and added to $PATH), R packages or any new extensions for existing modules
+ - *what is the process for testing material on NeSI systems?*
+      >* All of the relevant data/locally compiled applications can be stored in either ***/nesi/project/nesi02659*** OR ***/nesi/nobackup/nesi02659***. (please do not use ***/home***)
+      >* Comment out any non-standard lines or blocks in *~/.bashrc* , *~/.bash_profile* , *~/.condarc* , container configs
+      >* Deactivate/Unset all personal libraries belong to Python,Perl,R,etc
+ - *if software is already installed, can (almost) all the testing be done by the the workshop developers?*
+      >* Yes indeed. However, all testing parties will need to maintain a consistent environment (as above)
+ - *how do scripts need to be modified to run on NeSI systems?*
+
 ### Additional considerations
  
 *Ability to run workshop locally (i.e. not on NeSI systems)*
