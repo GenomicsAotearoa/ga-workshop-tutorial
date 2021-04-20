@@ -136,6 +136,7 @@ adds a link to the Genomics Aotearoa website:
 *Ability to run workshop locally (i.e. not on NeSI systems)*
 
 - *can an html link be created to the data files on the NeSI filesystem that are being used for the workshop?*
+    >This will be possible after Q3 or mid Q4,2021.  
 - *that would allow non-NeSI users to download the exact files being used, without any need to duplicate (and remember to update them) externally (e.g., on FigShare).*
 - *would we then just add a brief section to the workshop that covers "how to run this workshop on your own computer"?*
 
