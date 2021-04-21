@@ -8,3 +8,4 @@ Sections:
   - [Adding Content](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/1.AddingContent)
   - [Content Creation Example](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
   - [Example Content](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/3.ExampleContent)
+ - [test relative link](3.ExampleContent)
