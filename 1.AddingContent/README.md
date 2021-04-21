@@ -1,3 +1,5 @@
+Previous step: [Getting Started](../0.GettingStarted)
+
 ## Adding content to your workshop
 
 Once the GitHUb repository has been setup with `README.md` and `LICENSE` files, it is time to add some content.
@@ -148,4 +150,4 @@ adds a link to the Genomics Aotearoa website:
 ! Work in progress...
 ```
 
-Next step: [Content Creation Example](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
+Next step: [Content Creation Example](../2.ContentCreationExample)
