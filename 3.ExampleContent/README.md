@@ -1,3 +1,5 @@
+Previous step: [Content Creation Example](../2.ContentCreationExample)
+
 ## Example of workshop content: using FASTQC
 
 ### Overview
