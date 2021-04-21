@@ -1,3 +1,5 @@
+Previous step: [Adding Content](../1.AddingContent)
+
 ## Content creation example
 
 
@@ -91,4 +93,4 @@ By the end of this section of the course you will have learned:
 ! Work in progress...
 ```
 
-Next step: [Example Content](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/3.ExampleContent)
+Next step: [Example Content](../3.ExampleContent)
