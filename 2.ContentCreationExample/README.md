@@ -91,4 +91,4 @@ By the end of this section of the course you will have learned:
 ! Work in progress...
 ```
 
-Next step: [Example Content](https://github.com/mikblack/ga-workshop-tutorial/tree/main/3.ExampleContent)
+Next step: [Example Content](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/3.ExampleContent)
