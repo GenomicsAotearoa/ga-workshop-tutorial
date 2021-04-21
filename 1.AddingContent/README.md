@@ -148,4 +148,4 @@ adds a link to the Genomics Aotearoa website:
 ! Work in progress...
 ```
 
-Next step: [Content Creation Example](https://github.com/mikblack/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
+Next step: [Content Creation Example](https://github.com/genomicsaotearoa/ga-workshop-tutorial/tree/main/2.ContentCreationExample)
