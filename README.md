@@ -4,8 +4,9 @@ Basic tutorial to help people with creating new genomics workshops, with a focus
 
 Sections:
 
-  - [Getting started](0.GettingStarted)
-  - [Adding Content](1.AddingContent)
-  - [Content Creation Example](main/2.ContentCreationExample)
+  - [Getting started](0.GettingStarted) (~30 minutes)
+  - [Adding Content](1.AddingContent) (~15-20 minutes)
+  - [Content Creation Example](main/2.ContentCreationExample) (~45 minutes)
   - [Example Content](3.ExampleContent)
+  - [Applying to Your Own Project](4.YourOwnProject)
 
