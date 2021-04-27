@@ -1,5 +1,7 @@
 ## Workshop creation - getting started
 
+Time: 15 minutes
+
 ### Creating a GitHub repository
 
 The first step in creating the online workshop material is to set up a GitHub repository for the workshop.
