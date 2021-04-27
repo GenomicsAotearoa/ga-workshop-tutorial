@@ -89,8 +89,26 @@ By the end of this section of the course you will have learned:
 
 ### Adding commentary
 
-```diff
-! Work in progress...
+In between commands we want to have a commentary that explains what is being done and why. This helps the leaners understand the context for what they are learning. It might be descriptions or it might involve the next part of a story that is being told as part of a wider narrative.
+
+
+For this exercise, the markdown might be:
+````
+## Set up the directory structure
+
+In order to have a tidy project structure, we want to create directories that will contain the different stages of our analysis. 
+
 ```
+# Create directory in which to perform analysis, and change to that directory
+mkdir YeastAnalysis
+cd YeastAnalysis
+
+# Create subdirectories to hold data and output from FASTQC
+mkdir fastq
+mkdir fastqc_output
+```
+````
+
+
 
 Next step: [Example Content](../3.ExampleContent)
