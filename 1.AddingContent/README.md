@@ -1,6 +1,5 @@
 Previous step: [Getting Started](../0.GettingStarted)
 
-Time: 15 minutes
 
 ## Adding content to your workshop
 
