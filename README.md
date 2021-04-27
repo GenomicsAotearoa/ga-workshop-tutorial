@@ -6,7 +6,7 @@ Sections:
 
   - [Getting started](0.GettingStarted) (~30 minutes)
   - [Adding Content](1.AddingContent) (~15-20 minutes)
-  - [Content Creation Example](main/2.ContentCreationExample) (~45 minutes)
+  - [Content Creation Example](main/2.ContentCreationExample) (~25 minutes)
   - [Example Content](3.ExampleContent)
-  - [Applying to Your Own Project](4.YourOwnProject)
+  - [Applying to Your Own Project](4.YourOwnProject) (~20 minutes)
 
