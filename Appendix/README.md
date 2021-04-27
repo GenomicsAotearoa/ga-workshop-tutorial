@@ -43,6 +43,8 @@ Lead Instructor(s) | Ultimately decides what is included or not included in a wo
 || Schedules meeting(s) with instructors/ helpers before the workshop to plan details |
 
 
+## Step 3 - prepare your workshop workback plan
+Starting by filling in your target workshop date at the bottom of the table. From there, Mentally move back in time and make a list of all the tasks that need to be completed in order to run a successful workshop (fill in tasks and target dates from bottom to top). Below is an example workback plan that you can use as a starting point.
 
 relative time | who | date | to do  
 ---|---|---|---  
