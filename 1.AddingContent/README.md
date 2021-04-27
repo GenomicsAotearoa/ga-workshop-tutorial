@@ -1,5 +1,7 @@
 Previous step: [Getting Started](../0.GettingStarted)
 
+Time: 15 minutes
+
 ## Adding content to your workshop
 
 Once the GitHUb repository has been setup with `README.md` and `LICENSE` files, it is time to add some content.
