@@ -5,8 +5,8 @@ There is a lot to consider when coordinating a workshop.  This checklist is for 
 The checklist lists the milestones you may want to work towards when coordinating a workshop as well as tips for staying on track.
 
 ## Step 1 - Understand what running a workshop entails
-1. Before you begin preparing for your workshop make sure you have the basic ingredients covered:
-Workshop material 
+Before you begin preparing for your workshop make sure you have the basic ingredients:
+1. Quality workshop material
 2. A target audience
 3. A basic understanding of the workshop coordinating process. Have a look at the general tips below as a starting point.
 
