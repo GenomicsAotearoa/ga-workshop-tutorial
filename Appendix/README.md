@@ -27,20 +27,14 @@ Coordinating a workshop is a group effort.  Step one should always be getting he
 Fill out the ‘Who’ column in the table below before planning your workshop.  This will help you determine who will be doing what and whether you have enough support to move forward with the planning process.
 
 
-Role | Tasks/ responsibilities | Who |Notes
----|---|---|---
-Workshop Coordinator |Works closely with the lead instructor  |
-||Schedule workshop dates/ times|
-||create an eventbrite or other ‘event’ listing |
-|| Communicates with workshop registrants before and after workshop when required |
-||Books room/ catering|
-||promotes the event |
-Lead Instructor(s) | Ultimately decides what is included or not included in a workshop (material) |
-|| ensures learners get the right setup instructions before the workshop (liaise with the workshop coordinator)|
-|| Has final say on who teaches what topic |
-|| Is responsible for making sure there is a collaborative document for learners and a workshop website (if applicable) |
-|| is responsible for making sure there are enough helpers for the workshop and that the helpers are sufficiently prepped |
-|| Schedules meeting(s) with instructors/ helpers before the workshop to plan details |
+role | responsibilities | who | notes  
+---|---|---|---  
+workshop coordinator | <ul><li><small>works closely with the lead instructor</small></li><li><small>schedule workshop dates/ times</small></li><li><small>create an eventbrite or other ‘event’ listing</small></li><li><small>communicates with workshop registrants before and after workshop when required</small></li><li><small>books room/ caterings</small></li><li><small>promotes the event</small></li></ul> | | 
+lead instructor(s) | <ul><li><small>ultimately decides what is included or not included in a workshop (material)</small></li><li><small>ensures learners get the right setup instructions before the workshop (liaise with the workshop coordinator)</small></li><li><small>has final say on who teaches what topic</small></li><li><small>is responsible for making sure there is a collaborative document for learners and a workshop website (if applicable)</small></li><li><small>is responsible for making sure there are enough helpers for the workshop and that the helpers are sufficiently prepped</small></li><li><small>schedules meeting(s) with instructors/ helpers before the workshop to plan details</small></li></ul> | | <ul><li><small>1 helper for every 8 learners is a good ratio for in person workshops and 1:5 is good for online workshops</small></li><li><small>The lead instructor can, of course, get help for these tasks but is ultimately responsible for the workshop details</small></li></ul>
+co-instructors | <ul><li><small>works closely with the lead instructor</small></li><li><small>teaches a predetermined section of the workshop material </small></li><li><small>learns lessons beforehand and meets with other co-instructors to plan delivery details (who teaches what, etc…)</small></li></ul> | | 
+helpers | <ul><li><small>Must be present on the day of the workshop</small></li><li><small>reviews workshop material before the training event takes place</small></li><li><small>helps learners who are stuck by walking around the room answering questions </small></li></ul> | |<ul><li><small>Helpers should be confirmed no less than 3 weeks before the workshop</small></li></ul>
+technical support | <ul><li><small>Provides the platform/technical  infrastructure for the workshop (if required)</small></li><li><small>Helps with testing the material on the platform beforehand - new workshop material must be ready to test 3 weeks before a workshop</small></li><li><small>Software installation requests to occur at least 4 weeks in advance </small></li></ul> | |<ul><li><small>Helpers should be confirmed no less than 3 weeks before the workshop</small></li></ul>
+Coordination support | <ul><li><small>Can provide guidance/ support and can answer questions about training coordination best practice</small></li></ul>
 
 
 ## Step 3 - prepare your workshop workback plan
