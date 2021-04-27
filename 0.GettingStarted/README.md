@@ -1,6 +1,5 @@
 ## Workshop creation - getting started
 
-Time: 15 minutes
 
 ### Creating a GitHub repository
 
