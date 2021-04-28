@@ -131,12 +131,14 @@ adds a link to the Genomics Aotearoa website:
       >* minimum of three weeks for any application which requires to be installed as a module (there is some flexibility around for simpler software, conda environments or Singularity containers)
       >* Two weeks for local installs (compiled in a shared directory and added to $PATH), R packages or any new extensions for existing modules
  - *what is the process for testing material on NeSI systems?*
-      >* All of the relevant data/locally compiled applications can be stored in either ***/nesi/project/nesi02659*** OR ***/nesi/nobackup/nesi02659***. (please do not use ***/home***)
+      >* All of the relevant data and locally compiled applications can be stored in either ***/nesi/project/nesi02659*** OR ***/nesi/nobackup/nesi02659***. (please do not use ***/home***)
       >* Comment out any non-standard lines or blocks in *~/.bashrc* , *~/.bash_profile* , *~/.condarc* , container configs
       >* Deactivate/Unset all personal libraries belong to Python,Perl,R,etc
  - *if software is already installed, can (almost) all the testing be done by the the workshop developers?*
       >* Yes indeed. However, all testing parties will need to maintain a consistent environment (as above)
  - *how do scripts need to be modified to run on NeSI systems?*
+      >* This will depend on the method of execution .i.e. Interactive or via Job scheduler
+      >* If it is interactive, referring to [RNA-seq Workshop](https://github.com/GenomicsAotearoa/RNA-seq-workshop) material is a good start. Scripts which require a lot more resources (CPU, Memory) and time is suitable for the Job scheduler (this might not be the best option for short workshops but we can reserve resources as necessary to with a minimum of 5 notice). [Metagenomics Summer School](https://github.com/GenomicsAotearoa/metagenomics_summer_school/blob/master/materials/day3/ex10_viruses.md) material has quite a few good examples
 
 ### Additional considerations
  
