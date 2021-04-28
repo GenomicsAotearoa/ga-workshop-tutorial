@@ -128,8 +128,9 @@ adds a link to the Genomics Aotearoa website:
 
 
  - *what lead-time is required for software installs?*
-      >* minimum of three weeks for any application which requires to be installed as a module (there is some flexibility around for simpler software, conda environments or Singularity containers)
+      >* minimum of four weeks for any application which requires to be installed as a module (there is some flexibility around for simpler software, conda environments or Singularity containers)
       >* Two weeks for local installs (compiled in a shared directory and added to $PATH), R packages or any new extensions for existing modules
+      >* Overall, as much notice as possible. :) 
  - *what is the process for testing material on NeSI systems?*
       >* All of the relevant data and locally compiled applications can be stored in either ***/nesi/project/nesi02659*** OR ***/nesi/nobackup/nesi02659***. (please do not use ***/home***)
       >* Comment out any non-standard lines or blocks in *~/.bashrc* , *~/.bash_profile* , *~/.condarc* , container configs
