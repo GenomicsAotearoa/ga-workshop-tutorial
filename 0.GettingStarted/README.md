@@ -11,7 +11,7 @@ Once you've done this, you will be presented with an interface where you provide
 
 <img width="50%" src="images/create_repo.png">
 
-Note - I've used the "GNU General Public License v3.0" for this repo.  We can have a discussion about license option if you want...
+Note - I've used the "GNU General Public License v3.0" for this repo.  We can have a discussion about license options if you want...
 
 Also, I've specifed that a README.md file should be generated when the repository is created - we'll edit this in a moment.
 
@@ -33,7 +33,7 @@ Although it is possible to develop an entire workshop simply by interfacing with
 
 This allows you to build the workshop content on your own computer, while also benefitting from the backup, version control and collaborative content creation advantages that GitHub provides.
 
-There are a number of good options for editors, but here we have chosen to focus on Visual Studio Code, as it has a resasonably shalow learning curve, and is well supported on Linux, Mac and Windows platforms.
+There are a number of good options for editors, but here we have chosen to focus on Visual Studio Code, as it has a resasonably shallow learning curve, and is well supported on Linux, Mac and Windows platforms.
 
 VS Code can be downloaded from: 
 
